@@ -1,4 +1,4 @@
-![A passionate frontend developer from Bangladesh](https://img.freepik.com/premium-photo/desktop-source-code-wallpaper-by-computer-language-with-coding-programming_33771-595.jpg?w=2000)
+<!-- ![A passionate frontend developer from Bangladesh](https://img.freepik.com/premium-photo/desktop-source-code-wallpaper-by-computer-language-with-coding-programming_33771-595.jpg?w=2000) -->
 
 ### Hi 👋, Im Siyam Siddique
 #### A passionate frontend developer from Bangladesh
